@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Option /> should renders correctly 1`] = `
+<li
+  className="makeStyles-option-14"
+  data-testid="option"
+>
+  <button
+    className="makeStyles-button-13"
+    onClick={[MockFunction]}
+    type="button"
+  >
+    Lorem ipsum
+  </button>
+</li>
+`;
+
+exports[`<Option /> should renders correctly, with selected property 1`] = `
+<li
+  className="makeStyles-option-14 makeStyles-selected-15"
+  data-testid="option"
+>
+  <button
+    className="makeStyles-button-13"
+    onClick={[MockFunction]}
+    type="button"
+  >
+    Lorem ipsum
+  </button>
+</li>
+`;

@@ -1,0 +1,15 @@
+export const BASKET_PRICE_TEST_ID = 'basket_price';
+export const CHANGE_CURRENCY_TEST_ID = 'change_currency';
+export const CHANGE_LANGUAGE_TEST_ID = 'change_language';
+export const CURRENCY_OPTION_TEST_ID = 'currency_option';
+export const LANGUAGE_OPTION_TEST_ID = 'language_option';
+export const LOADING_TEST_ID = 'loading';
+export const MENU_TEST_ID = 'menu';
+export const PRODUCT_LIST_TEST_ID = 'product_list';
+export const PRODUCT_NAME_TEST_ID = 'product_name';
+export const PRODUCT_PRICE_TEST_ID = 'product_price';
+export const PRODUCT_TEST_ID = 'product';
+export const PRODUCT_QUANTITY_TEST_ID = 'product_quantity';
+export const ADD_ITEM_BUTTON_TEST_ID = 'add_item_button';
+export const REMOVE_ITEM_BUTTON_TEST_ID = 'remove_item_button';
+export const OPTION_DEFAULT_TEST_ID = 'option';

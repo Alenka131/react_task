@@ -1,10 +1,14 @@
-.container{
-    width: 1000px;
-    margin: 100px auto 0 auto;
+html, body {
+    margin: 0;
 }
 
-.row {
-    padding: 10px;
-    border-bottom: 1px solid silver;
-    list-style: none;
+ul, li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+dl, dt, dd {
+    margin: 0;
+    padding: 0;
 }

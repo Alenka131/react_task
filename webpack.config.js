@@ -1,6 +1,6 @@
 const path = require('path');
 const HtmlWebPackPlugin = require('html-webpack-plugin');
-const devServerConfig = require('./config/webpack.server.config')
+const devServerConfig = require('./config/webpack.server.config');
 
 module.exports = {
   output: {
@@ -12,6 +12,7 @@ module.exports = {
     alias: {
       react: path.join(__dirname, 'node_modules', 'react'),
     },
+    extensions: ['.js', '.jsx'],
   },
   module: {
     rules: [
