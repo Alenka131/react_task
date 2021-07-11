@@ -1,6 +1,7 @@
 import React from 'react';
 import { render } from 'react-dom';
+import App from 'components/App';
+import 'i18n';
 
-import { App } from './components/App/App';
-
-render(<App />, document.getElementById('root'));
+const app = React.createElement(App);
+render(app, document.getElementById('root'));

@@ -1,0 +1,15 @@
+{
+    "currency.pln": "zł",
+    "currency.usd": "$",
+    "language.pl": "Polski",
+    "language.en": "Angielski",
+    "header": "Lista produktów",
+    "summary": "Razem",
+    "loading": "Ładowanie...",
+    "product_quantity_1": "Obecnie masz {{quantity}} sztukę produktu",
+    "product_quantity_2-4": "Obecnie masz {{quantity}} sztuki produktu",
+    "product_quantity_5": "Obecnie masz {{quantity}} sztuk produktu",
+    "error.something_went_wrong": "Coś poszło nie tak...",
+    "error.incorrect_quantity": "Nieprawidłowa ilość produktu",
+    "error.not_found_product": "Produkt nie istnieje"
+}

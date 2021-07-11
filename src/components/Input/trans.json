@@ -1,0 +1,10 @@
+{
+    "PRODUCT_QUANTITY_1": "product_quantity_1",
+    "PRODUCT_QUANTITY_2__4": "product_quantity_2-4",
+    "PRODUCT_QUANTITY_5": "product_quantity_5",
+    "ERROR": {
+        "NOT_FOUND_PRODUCT": "error.not_found_product",
+        "INCORRECT_QUANTITY": "error.incorrect_quantity",
+        "SOMETHING_WENT_WRONG": "error.something_went_wrong"
+    }
+}

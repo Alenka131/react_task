@@ -1,0 +1,15 @@
+{
+    "currency.pln": "zł",
+    "currency.usd": "$",
+    "language.pl": "Polish",
+    "language.en": "English",
+    "header": "List of products",
+    "summary": "Total",
+    "loading": "Loading...",
+    "product_quantity_1": "You currently have {{quantity}} item of the product",
+    "product_quantity_2-4": "You currently have {{quantity}} items of the product",
+    "product_quantity_5": "You currently have {{quantity}} items of the product",
+    "error.something_went_wrong": "Something went wrong",
+    "error.incorrect_quantity": "Incorrect quantity",
+    "error.not_found_product": "Not found product"
+}
